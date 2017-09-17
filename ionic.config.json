@@ -1,7 +1,8 @@
 {
-  "name": "ionSocialApp",
+  "name": "ni-social",
   "app_id": "ddb5893f",
   "gulpStartupTasks": [
+    "default",
     "sass",
     "watch"
   ],
